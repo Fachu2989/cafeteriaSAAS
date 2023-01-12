@@ -2,6 +2,8 @@
  
 cafeteria saas compilada con gulp por que con live saas la terminal me bloqueba vscode.
 
+En la carpeta reportes, puse imagenes de reportes mediante lighthouse.
+
 Procedimientos para gulp es: npm i --save-dev gulp 
 
 Y para compilar es gulp en terminal.
