@@ -1,9 +1,10 @@
-# cafeteria SAAS
+# cafeteria CoderFachu
  
-cafeteria saas compilada con gulp por que con live saas la terminal me bloqueba vscode.
+cafeteria CoderFachu compilada con gulp
 
 En la carpeta reportes, puse imagenes de reportes mediante lighthouse.
 
 adjunto web, ya subida a netlify
 
-https://cafeteriasaasfachu290589.netlify.app/index.html
+https://cafeteriacoderfachu.netlify.app/
+
